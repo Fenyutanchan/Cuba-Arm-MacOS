@@ -1,0 +1,18 @@
+# files generated after `./configure --prefix=/path/to/`
+makefile
+config.h
+config.log
+config.status
+
+# files generated after `gmake && gmake install`
+Cuhre
+Divonne
+Suave
+Vegas
+
+libcuba.a
+
+demo-c
+demo-fortran
+
+demo-fortran.dSYM/Contents/Info.plist
